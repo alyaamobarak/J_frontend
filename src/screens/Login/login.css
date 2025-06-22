@@ -1,0 +1,151 @@
+.login-container {
+    max-width: 530px;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+    background: #fff;
+
+  }
+body{
+  background: white;
+
+}
+  .log-box {
+    background: #fff;
+  }
+
+  .log-box input {
+    border: 1px solid #ccc;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #333;
+  }
+
+  .Jumia {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #333;
+  }
+
+  .btnn {
+    background-color: #f8982d;
+    color: white;
+    font-size: 18px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border:none;
+
+  }
+
+  .btnn:hover {
+    background-color:rgb(243, 140, 22); 
+    color: white;
+  }
+
+  .btn-facebook {
+    background-color: #1877f2;
+    color: white;
+    font-size: 14px;
+    padding: 14px;
+  }
+
+  .btn-facebook:hover {
+    background-color:rgb(8, 100, 219);
+    color: white;
+
+  }
+
+  .foo0ter {
+    font-size: 14px;
+    margin-top: 20px;
+    color: #333;
+  }
+
+  .fontText{
+    font-family:'Roboto', sans-serif;
+  }
+
+  .tttt{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5em;
+    margin: 8px 0 16px;
+    color: #4a4a4a;
+  }
+
+  .coloremail{
+    background-color: #eee;
+    display: flex;
+    margin: 32px 0 32px;
+    padding: 16px;
+    border:none;
+    outline:none;
+    color: #000!important;
+    font-size: 13px;
+  }
+  .form-control{
+    border:none;
+    outline:none;
+    border-color:white;
+  }
+
+  .eromess{
+    font-size:12px;
+  }
+
+  .svgStyle{
+    border-radius: 50%;
+    background-color: #4a4a4a;
+    padding: 1px  4px 6px;
+
+    text-align: center;
+    margin: 0 auto;
+    font-size: 16px;
+
+  }
+
+  .svgStyle {
+  display: inline-block;
+  margin-bottom: 10px; 
+}
+.mb-3 {
+  position: relative;
+}
+
+.svgStyle {
+  position: absolute;
+  top: 26px;
+  right: 36%;
+  transform: translateX(-50%);
+}
+
+.posheghit{
+  border:#4a4a4a 1px solid!important;
+  height: 60px !important;
+}
+
+.fake-placeholder {
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #6c757d;
+  /* pointer-events: none; */
+  font-size: 14px;
+}
+.mxx{
+  margin-right: 500px;
+}
+.yellow{
+  color: #f8982d!important;
+}
+.checkboxinput{
+  width: 14px;
+  height: 14px;
+}
+.disabled-btn {
+    background-color: #ccc !important;
+    color: #666 !important;
+    cursor: not-allowed;
+    pointer-events: none;
+}
