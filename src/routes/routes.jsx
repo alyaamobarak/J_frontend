@@ -34,7 +34,7 @@ import ConfirmOrder from "../screens/Order/ConfirmOrder/ConfirmOrder";
 import Confirm from "../screens/Order/Confirm/Confirm";
 import Payment from "../screens/Order/Payment/Payment";
 
-import UserSetting from "../screens/UserSetting/UserSetting";
+import UserSetting from "../screens/userSetting/UserSetting";
 import OrderDone from "../screens/Order/OrderDone/OrderDone";
 import Form from '../screens/userSetting/FormSetting'
 
