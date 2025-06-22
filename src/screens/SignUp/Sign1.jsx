@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
-import '../Login/Login.css';
+import '../Login/login.css';
 import { useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { verifyEmailThunk } from '../../store/Slice/authSlice';

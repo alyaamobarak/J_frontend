@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../Login/Login.css';
+import '../Login/login.css';
 import { useForm } from 'react-hook-form';
 import { useNavigate } from 'react-router-dom';
 import { useDispatch } from 'react-redux';

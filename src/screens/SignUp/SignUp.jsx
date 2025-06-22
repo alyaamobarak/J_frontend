@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import '../Login/Login.css';
+import '../Login/login.css';
 import { useForm } from 'react-hook-form';
 import { AiOutlineEye, AiOutlineEyeInvisible } from 'react-icons/ai';
 import { useNavigate } from 'react-router-dom';
