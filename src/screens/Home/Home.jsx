@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
-import Overlay from "../../Comoonents/Overlay/Overlay";
+import Overlay from "../../components/Overlay/Overlay";
 import "./Home.css";
 // import { categories } from "./categpries";
 import Products from "../Products/Product";
 import axios from "axios";
-import Carusel from "../../Comoonents/Carusel/Carusel";
+import Carusel from "../../components/Carusel/Carusel";
 
 const Home = () => {
   const [categories, setCategories] = useState([]);

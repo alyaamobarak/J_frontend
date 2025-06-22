@@ -5,12 +5,12 @@ import Details from "../screens/Details/Details";
 import NotFound from "../screens/Not_Found/NotFound";
 import Wishlist from "../screens/Wishlist/Wishlist";
 import Login from "../screens/Login/Login";
-import Layout from "../comoonents/Layout/Layout";
+import Layout from "../components/Layout/Layout";
 import About from "../screens/About/About";
 import Cart from "../screens/Cart/CartItem";
 import EmptyCart from "../screens/Cart/emptyCart";
 import "bootstrap/dist/css/bootstrap.min.css";
-import ProductDetails from "../Comoonents/Product details/ProductDetails";
+import ProductDetails from "../components/Product details/ProductDetails";
 
 
 import Login2 from "../screens/Login/Login2";

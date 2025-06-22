@@ -1,4 +1,4 @@
-// import ProductDetails from "./Comoonents/Product details/ProductDetails"
+// import ProductDetails from "./components/Product details/ProductDetails"
 
 import { Provider } from 'react-redux';
 import { RouterProvider } from 'react-router-dom';
